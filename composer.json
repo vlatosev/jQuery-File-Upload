@@ -6,14 +6,10 @@
   },
   "extra": {
     "component": {
-      "scripts": [
-        "js/jquery.fileupload.js"
-      ],
-      "styles": [
-        "css/jquery.fileupload.css"
-      ],
       "files": [
-        "img/*.png"
+        "img/*.png",
+        "js/jquery.fileupload.js",
+        "css/jquery.fileupload.css"
       ]
     }
   }
