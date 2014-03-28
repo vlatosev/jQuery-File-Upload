@@ -1,0 +1,20 @@
+{
+  "name": "blueimp/jquery-file-upload",
+  "type": "component",
+  "require": {
+    "robloach/component-installer": "*"
+  },
+  "extra": {
+    "component": {
+      "scripts": [
+        "js/jquery.fileupload.js"
+      ],
+      "styles": [
+        "css/jquery.fileupload.css"
+      ],
+      "files": [
+        "img/*.png"
+      ]
+    }
+  }
+}
